@@ -48,4 +48,4 @@ Run actions/github-script@626af12fe9a53dc2972b48385e7fe7dec79145c9
   
     debug: True
     user-agent: actions/github-script
-    result-encoding: java
+    result-encoding: C++
